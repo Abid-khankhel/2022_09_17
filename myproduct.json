@@ -1,0 +1,44 @@
+[
+    {
+         "id": 3,
+      "image": "guitar-2.png",
+      "name": "Lee",
+      "price": "123456",
+      "inventory": "324",
+      "productioncode": "dasf43"
+    },
+    {
+        "id": 3,
+        "image": "guitar-2.png",
+        "name": "Lee",
+        "price": "123456",
+        "inventory": "324",
+        "productioncode": "dasf43"
+    },
+    {
+        "id": 3,
+        "image": "guitar-2.png",
+        "name": "Lee",
+        "price": "123456",
+        "inventory": "324",
+        "productioncode": "dasf43"
+    },
+    {
+        "id": 3,
+      "image": "guitar-2.png",
+      "name": "Lee",
+      "price": "123456",
+      "inventory": "324",
+      "productioncode": "dasf43"
+    },
+    {
+      "id": 3,
+      "image": "guitar-2.png",
+      "name": "Lee",
+      "price": "123456",
+      "inventory": "324",
+      "productioncode": "dasf43"
+    } 
+]
+  
+
